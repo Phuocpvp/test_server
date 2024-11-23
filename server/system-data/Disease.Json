@@ -1,0 +1,82 @@
+[
+    {
+        "Disease": "Tiểu Đường",
+        "ListQuestion": {
+            "TD-1": "Bạn có những dấu hiệu gì ?",
+            "TD-2": "Tần suất tiểu của bạn trong 1 ngày là bao nhiêu lần ?",
+            "TD-3": "Bạn có gặp bất kỳ triệu chứng nào như khát nước, tiểu nhiều hay mệt mỏi không ?",
+            "TD-4": "Bạn có thường xuyên tập thể dục không? Nếu có, bạn đã tập luyện bao nhiêu lần trong tuần?",
+            "TD-5": "Bạn có bất kỳ vấn đề sức khỏe nào khác như cao huyết áp hoặc cholesterol cao không?"
+        }
+    },
+    {
+        "Disease": "Dạ dày , đường ruột",
+        "ListQuestion": {
+            "TH-1": "Bạn có thường xuyên gặp các triệu chứng như đau bụng, khó tiêu hoặc ợ chua không?",
+            "TH-2": "Bạn có nhận thấy bất kỳ thay đổi nào trong thói quen ăn uống hoặc cảm giác thèm ăn của mình không?",
+            "TH-3": "Bạn có sử dụng thuốc hoặc liệu pháp nào để kiểm soát triệu chứng của bệnh dạ dày đường ruột không? Nếu có, hãy cho biết tên thuốc và liều lượng bạn đang dùng.",
+            "TH-4": "Bạn có gặp khó khăn gì trong việc tiêu hóa thức ăn, chẳng hạn như đầy hơi, buồn nôn hoặc tiêu chảy không?",
+            "TH-5": "Bạn có thường xuyên đi khám bác sĩ hoặc thực hiện các xét nghiệm để theo dõi tình trạng bệnh không? Nếu có, kết quả gần đây của bạn là gì?"
+        }
+    },
+    {
+        "Disease": "Tai mũi họng",
+        "ListQuestion": {
+            "TI-1": "Bạn có thường xuyên gặp các triệu chứng như đau họng, nghẹt mũi, hoặc chảy mũi không?",
+            "TI-2": "Bạn có bị viêm tai, ù tai hoặc khó nghe không?",
+            "TI-3": "Bạn có cảm thấy đau hoặc khó thở khi nuốt thức ăn hoặc nước uống không?",
+            "TI-4": "Bạn có bị ho, khàn giọng hoặc khó thở thường xuyên không?",
+            "TI-5": "Bạn có thực hiện các xét nghiệm tai mũi họng gần đây không? Nếu có, kết quả là gì?"
+        }
+    },
+    {
+        "Disease": "Ung thư vú",
+        "ListQuestion": {
+            "TJ-1": "Bạn có thường xuyên kiểm tra vú của mình để phát hiện bất kỳ khối u nào không?",
+            "TJ-2": "Bạn có cảm thấy đau hoặc có sự thay đổi về hình dạng hoặc kích thước của vú không?",
+            "TJ-3": "Gia đình bạn có tiền sử mắc ung thư vú hoặc các bệnh ung thư khác không?",
+            "TJ-4": "Bạn có thực hiện các xét nghiệm kiểm tra ung thư vú gần đây không? Nếu có, kết quả là gì?",
+            "TJ-5": "Bạn có bị sưng hoặc có sự thay đổi bất thường ở vùng nách hoặc xung quanh vú không?"
+        }
+    },
+    {
+        "Disease": "Xương khớp",
+        "ListQuestion": {
+            "TK-1": "Bạn có thường xuyên cảm thấy đau, cứng hoặc sưng ở các khớp không?",
+            "TK-2": "Bạn có gặp khó khăn trong việc di chuyển hoặc thực hiện các hoạt động hàng ngày do vấn đề với khớp không?",
+            "TK-3": "Bạn có từng bị chấn thương xương khớp hoặc có tiền sử bệnh lý liên quan đến khớp không?",
+            "TK-4": "Bạn có sử dụng thuốc giảm đau hoặc điều trị cho các vấn đề về xương khớp không? Nếu có, vui lòng cho biết chi tiết?",
+            "TK-5": "Bạn có thực hiện các xét nghiệm hoặc điều trị chuyên sâu cho vấn đề xương khớp không?"
+        }
+    },
+    {
+        "Disease": "Các bệnh về máu",
+        "ListQuestion": {
+            "TL-1": "Bạn có thường xuyên cảm thấy mệt mỏi, chóng mặt hoặc có triệu chứng thiếu máu không?",
+            "TL-2": "Bạn có gặp phải các vấn đề về đông máu, như chảy máu lâu không cầm, bầm tím dễ dàng không?",
+            "TL-3": "Gia đình bạn có tiền sử bệnh về máu, như thiếu máu, bệnh thalassemia hoặc các bệnh rối loạn đông máu không?",
+            "TL-4": "Bạn có thực hiện các xét nghiệm máu gần đây không? Nếu có, kết quả của bạn như thế nào?",
+            "TL-5": "Bạn có dùng thuốc hoặc điều trị nào để kiểm soát các vấn đề về máu không? Nếu có, vui lòng cho biết chi tiết?"
+        }
+    },
+    {
+        "Disease": "Cao huyết áp",
+        "ListQuestion": {
+            "TT-1": "Bạn có thường xuyên cảm thấy chóng mặt, đau đầu hoặc mệt mỏi không?",
+            "TT-2": "Bạn có cảm thấy khó thở hoặc có dấu hiệu sưng tấy ở chân, mắt cá chân không?",
+            "TT-3": "Bạn có kiểm tra huyết áp thường xuyên không? Nếu có, kết quả gần đây của bạn là gì?",
+            "TT-4": "Bạn có thay đổi chế độ ăn uống hoặc lối sống để kiểm soát huyết áp không?",
+            "TT-5": "Bạn có dùng thuốc để điều trị cao huyết áp không? Nếu có, vui lòng cho biết chi tiết về loại thuốc và liều lượng?"
+        }
+    },
+    {
+        "Disease": "Trĩ",
+        "ListQuestion": {
+            "TS-1": "Bạn có cảm thấy đau hoặc khó chịu khi ngồi lâu không?",
+            "TS-2": "Bạn có gặp phải tình trạng chảy máu khi đi vệ sinh không?",
+            "TS-3": "Bạn có cảm thấy ngứa hoặc sưng ở khu vực hậu môn không?",
+            "TS-4": "Bạn có gặp khó khăn khi đi vệ sinh hoặc cảm giác không thể làm sạch sau khi đi vệ sinh không?",
+            "TS-5": "Bạn có sử dụng thuốc hoặc phương pháp điều trị nào để giảm triệu chứng của bệnh trĩ không? Nếu có, vui lòng cho biết chi tiết?"
+        }
+    }    
+]
